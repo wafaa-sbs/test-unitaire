@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Desktop\TestUnit\TestUnit\bin\Debug\TestUnit.exe.config
+C:\Users\Administrateur\Desktop\TestUnit\TestUnit\bin\Debug\TestUnit.exe
+C:\Users\Administrateur\Desktop\TestUnit\TestUnit\bin\Debug\TestUnit.pdb
+C:\Users\Administrateur\Desktop\TestUnit\TestUnit\obj\Debug\Mathlogic.csprojAssemblyReference.cache
+C:\Users\Administrateur\Desktop\TestUnit\TestUnit\obj\Debug\Mathlogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\TestUnit\TestUnit\obj\Debug\TestUnit.exe
+C:\Users\Administrateur\Desktop\TestUnit\TestUnit\obj\Debug\TestUnit.pdb
